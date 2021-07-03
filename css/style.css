@@ -6,4 +6,6 @@ p {
     border: 10px solid #000055;
     background-color: blueviolet;
     border-radius: 15px;
+    margin: 20px;
+    padding: 10px;
 }
